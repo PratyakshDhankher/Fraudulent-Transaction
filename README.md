@@ -1,4 +1,4 @@
-💳 Fraudulent Transaction Detection System
+**💳 Fraudulent Transaction Detection System**
 
 A machine learning-based fraud detection project designed to identify suspicious banking transactions in highly imbalanced datasets.
 The project applies data preprocessing, feature engineering, imbalance handling, and multiple classification models to accurately detect fraudulent financial activity.
